@@ -27,8 +27,16 @@ body {
   padding-top: 80px;
 }
 
-.nav_item {
+.nav_item 
+{
   margin-left: 25px;
+  float: left;
+  margin-top: 20px;
+}
+
+.nav_item_user
+{
+  margin-left: 100px;
   float: left;
   margin-top: 20px;
 }
